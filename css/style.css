@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: lightgray;
+}
+
 img {
 width: 256px;
 height: 256px;
